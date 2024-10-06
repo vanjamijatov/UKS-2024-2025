@@ -21,5 +21,5 @@ Nakon što završimo sa gradivom neophodnim za implementaciju projektnog zadatka
 
 **Napomena:** Plan izvođenja vežbi je podložan promenama u toku semestra.
 
-Najčešće postavljena pitanja koja se tiču projektnog zadatka (FAQ) možete pronaći u [sledećem dokumentu]([https://docs.google.com/document/d/1iekw6HSwoa1iIgp2G5sW72qdfjm1mXq9g99kkge1nEo/edit?usp=drive_link](https://docs.google.com/document/d/1DRjjjZDnjWoZiU_oyHSs4har-wkZvMMlTIxoEg_3m7o/edit?usp=sharing).
+Najčešće postavljena pitanja koja se tiču projektnog zadatka (FAQ) možete pronaći u [sledećem dokumentu](https://docs.google.com/document/d/1DRjjjZDnjWoZiU_oyHSs4har-wkZvMMlTIxoEg_3m7o/edit?usp=sharing).
 Grubi sažetak informacija o projektu možete pronaći u [sledećem dokumentu](Project.md). **Napomena:** Web-aplikacija koju treba da napravite jeste jednostavnija verzija *DockerHub-a*. Za više informacije o tome koje funckionalnosti treba implementirati pogledajte FAQ dokument.
