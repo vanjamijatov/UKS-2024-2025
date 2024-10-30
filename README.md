@@ -8,8 +8,8 @@ Plan izvođenja vežbi je sledeći:
 | 1 | Upoznavanje sa projektom | 18.10. u terminu predavanja |
 | 2 | [Git - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) i [Git - branching i GitFlow](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) | 23.10. & 25.10. |
 | 3 | [Python podsećanje - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Python%20Basics/Python%20lesson) i [Python podsećanje - napredno](https://github.com/vanjamijatov/UKS-materijali/tree/main/Python%20Basics/Python%20lesson) | 30.10. & 01.11. |
-| 4 | [Django tutorial](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Framework) i [Primer Django aplikacije](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Application%20Example) | 06.11. & 08.11. |
-| 5 | [Docker](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i UML dijagram klasa modela | 13.11. & 15.11. |
+| 4 | [Docker](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i UML dijagram klasa modela | 06.11. & 08.11. |
+| 5 | [Django tutorial](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Framework) i [Primer Django aplikacije](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Application%20Example) | 13.11. & 15.11. |
 | 6 | Nedelja za samostalni rad (konsultacije uz prethodnu najavu putem email-a) | 20.11. & 22.11. |
 | 7 | [Django auth, Django tests](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest) | 27.11. & 29.11. |
 | 8 | [Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) | 04.12. & 06.12. |
