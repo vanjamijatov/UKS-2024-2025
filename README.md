@@ -14,7 +14,6 @@ Plan izvođenja vežbi je sledeći:
 | 7 | [Django auth, Django tests](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest) | 27.11. |
 | 8 | [Github Actions (CI/CD), Docker Compose](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) | 04.12. |
 | 9 | [Elasticsearch](https://github.com/vanjamijatov/UKS-DjangoElasticsearch) i konsultacije u terminu vežbi | 11.12. |
-| 10 | Konsultacije u redovnom terminu vežbi | 18.12. |
 
 Nakon što završimo sa gradivom neophodnim za implementaciju projektnog zadatka, prelazimo u konsultativni režim rada. Tada će se vežbe održavati u svrhu konsultacija uz neophodni dogovor putem email-a.
 
